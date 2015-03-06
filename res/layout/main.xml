@@ -2,8 +2,7 @@
 <!--suppress ALL -->
 <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:background="@drawable/bpbakgrundwlogo">
+    android:layout_height="fill_parent">
 
     <Button
         android:id="@+id/button1"
